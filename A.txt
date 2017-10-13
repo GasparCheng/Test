@@ -1,1 +1,5 @@
 This is a simple document for learning Git operation
+
+[ Code section A ]
+123456
+ABCDEFG
